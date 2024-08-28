@@ -1,3 +1,16 @@
+Name:Jai Gupta
+
+Company:CODTECH IT SOLUTIONS
+
+Id:CT08DS6202
+
+Domain:SQL
+
+Duration:August to September
+
+Mentor Name:Muzammil Ahmed
+
+
 # Here's a simplified explanation of the Employee Management System database setup and operations:
 
 ### 1. *Database and Tables Creation:*
